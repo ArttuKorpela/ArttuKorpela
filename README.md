@@ -1,23 +1,23 @@
-<h2> Hey There! 👋</h2>
-I'm Arttu Korpela. a Second year SWE-student.
-- Currently completing my B.Eng BC LUT-University.
+## Hey There! 👋
+I'm Arttu Korpela, a second-year SWE student.
+- Currently completing my B.Eng at LUT University.
 
-<h3>💻 I'm currently Learming: </h3>
+### 💻 I'm currently learning:
 - CT30A3204 Advanced Web Applications
-    - Node.js, Express and React
-    - [Link to latest work.](https://github.com/ArttuKorpela/AWA_WEEK_9)
+    - Node.js, Express, and React
+    - [Link to latest work](https://github.com/ArttuKorpela/AWA_WEEK_9)
 - CT30A3401 Distributed Systems
-    - scaling up applications, Cloud
+    - Scaling up applications, Cloud computing
 - CT60A5531 Software Project Management
-    - Managmement skills, development methologies
+    - Management skills, development methodologies
 
-<h3> 🛠️ Past Projects </h3>
-- [Data analysing program implemented using C.](https://github.com/ArttuKorpela/Linked-List-using-C)
-- [Data analysing program implemented using Python.](https://github.com/ArttuKorpela/Basics-of-Programming/tree/main/Harjoitustyö)
-- [Lutemons, an Android game written using Java.](https://github.com/ArttuKorpela/Lutemons)
-- [Jahti, a top down shooter implemented using Phaser 3.](https://github.com/ArttuKorpela/HTML-game)
-- [UI/UX project using Figma and Flutter.] (https://github.com/ArttuKorpela/UI-UX-Project)
-- [Two different Database projects implemented using Postgre and SQLite](https://github.com/ArttuKorpela/Database-Courses)
+### 🛠️ Past Projects
+- [Data analyzing program implemented using C](https://github.com/ArttuKorpela/Linked-List-using-C)
+- [Data analyzing program implemented using Python](https://github.com/ArttuKorpela/Basics-of-Programming/tree/main/Harjoitustyö)
+- [Lutemons, an Android game written using Java](https://github.com/ArttuKorpela/Lutemons)
+- [Jahti, a top-down shooter implemented using Phaser 3](https://github.com/ArttuKorpela/HTML-game)
+- [UI/UX project using Figma and Flutter](https://github.com/ArttuKorpela/UI-UX-Project)
+- [Two different Database projects implemented using PostgreSQL and SQLite](https://github.com/ArttuKorpela/Database-Courses)
 - Lots of other smaller tasks...
 
 
