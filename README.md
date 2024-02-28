@@ -5,7 +5,7 @@ I'm Arttu Korpela, a second-year SWE student.
 ### 💻 I'm currently learning:
 - __CT30A3204 Advanced Web Applications__
     - Node.js, Express, and React
-    - [Link to latest work](https://github.com/ArttuKorpela/AWA_PROJECT)
+    - [Link to final project](https://github.com/ArttuKorpela/AWA_PROJECT)
 - __CT30A3401 Distributed Systems__
     - Scaling up applications, Cloud computing
 - __CT60A5531 Software Project Management__
